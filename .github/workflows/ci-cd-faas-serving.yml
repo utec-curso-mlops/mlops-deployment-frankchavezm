@@ -4,7 +4,6 @@
    push:
      branches:
        - main
-
  jobs:
    inference-pipeline:
      runs-on: ubuntu-latest
