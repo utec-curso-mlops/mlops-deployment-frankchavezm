@@ -1,4 +1,4 @@
-# name: CI/CD for Training Pipeline
+name: CI/CD for Training Pipeline
 
  on:
    push:
